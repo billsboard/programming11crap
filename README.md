@@ -22,6 +22,6 @@ Stupid assignments I did for programming 11. Feel free to copy
     * Python snake game using lines and points
     * Collision testing is better and uses less resources
   * `betting game 3.0.py`
-    * Depends on: none, only python builtin modules
+    * Depends on: None, only python builtin modules
     * Python basic number guessing game that someone had trouble writing and I "fixed" (completely rewrote)
     * Isn't very good
