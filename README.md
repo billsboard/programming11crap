@@ -24,4 +24,4 @@ Stupid assignments I did for programming 11. Feel free to copy
   * `betting game 3.0.py`
     * Depends on: None, only python builtin modules
     * Python basic number guessing game that someone had trouble writing and I "fixed" (completely rewrote)
-    * Isn't very good
+    * Isn't very good (Who puts spaces in filenames! Makes life harder for people trying to push to a repository)
