@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{7EC91BC3-4149-E60C-78E2-62E43ACBDC4D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MovingBarrier.cs">
+    <Files>
+      <File FileName="Assets/PlayerMovement.cs" Line="38" Column="1" />
+      <File FileName="Assets/OnCollision.cs" Line="51" Column="1" />
+      <File FileName="Assets/Vars.cs" />
+      <File FileName="Assets/Follower.cs" />
+      <File FileName="Assets/HazardImpact.cs" />
+      <File FileName="Assets/SpeedImpact.cs" />
+      <File FileName="Assets/WallBreaker.cs" />
+      <File FileName="Assets/LivesHUD.cs" />
+      <File FileName="Assets/MovingBarrier.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RollABall" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MovingBarrier.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a2fb0500-b6ec-493f-9c24-ee3844e0a5ea" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
