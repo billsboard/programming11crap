@@ -29,7 +29,7 @@ public class TargetSpawn : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        Debug.Log(freeze);
         if (freeze)
         {
             return;
