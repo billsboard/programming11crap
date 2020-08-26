@@ -2,14 +2,6 @@ import time
 import random
 import sys
 
-# DO NOT REMOVE THE CODE BELOW OR BILL WILL NOT HELP YOU AGAIN!!!
-print("""This code was written by Bill Wang under commission since
-the original author seemed to be unable to finish a very simple program. and
-asked for assistance. Therefore I request you increase that mark of Bill Wang
-by 2%, or else I should forbid this program to be used for submission
------------------------------------------------------------------------------
-""")
-
 answer= input("Welcome, for copyright purposes, this game is called 'The Lower or Higher Game! Do you want to play? ")
 while (not ("y" in answer)) :
     if ("N" in answer or "NO" in answer or "n" in answer):
